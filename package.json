@@ -1,0 +1,24 @@
+{
+  "name": "adventofcode_2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "advent",
+    "of",
+    "code",
+    "adventofcode",
+    "2018",
+    "js",
+    "javascript"
+  ],
+  "author": "Andras Udvari",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^1.15.3"
+  }
+}
